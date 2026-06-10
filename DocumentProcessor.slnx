@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DocumentProcessor.App/DocumentProcessor.App.csproj" />
+  <Project Path="DocumentProcessor.Core/DocumentProcessor.Core.csproj" />
+  <Project Path="DocumentProcessor.Tests/DocumentProcessor.Tests.csproj" />
+</Solution>
